@@ -1,6 +1,6 @@
-Autor : Daniel Felipe Alfonso Bueno
-Laboratorio 13 Innovación y emprendimiento en tecnologias de la información
-Código de Honor
+# Autor : Daniel Felipe Alfonso Bueno
+# Laboratorio 13 Innovación y emprendimiento en tecnologias de la información
+## Código de Honor
 La presencia de este documento en este repositorio es un compromiso explícito de los colaboradores de seguir el siguiente código de honor:
 
 Debes seguir el Código de honor del ingeniero de sistemas para defender el estándar de integridad académica de la ECI:
